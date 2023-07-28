@@ -167,3 +167,11 @@ input, textarea {
 .footer__link {
     padding-right: 24px;
 }
+
+@media (max-width: 768px) {
+
+    .row{
+        flex-direction: column;
+    }
+
+}

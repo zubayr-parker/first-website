@@ -228,7 +228,9 @@ input, textarea {
         font-size: 18px;
     }
 
-    .footer__links {
-        
+    header {
+        height: 100%;
+
     }
+
 }
